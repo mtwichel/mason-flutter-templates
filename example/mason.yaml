@@ -1,0 +1,5 @@
+templates:
+  stateful_page:
+    path: ../stateful_page/template.yaml
+  page:
+    path: ../page/template.yaml
