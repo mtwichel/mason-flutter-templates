@@ -1,0 +1,5 @@
+name: stateful_page
+description: Builds a widget including view code, a bloc, and test scaffold.
+vars:
+  - name
+  - package_name
