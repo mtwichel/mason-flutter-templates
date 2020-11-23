@@ -1,5 +1,9 @@
 templates:
   stateful_page:
-    path: ../stateful_page/template.yaml
+    git:
+      url: https://github.com/mtwichel/mason-flutter-templates
+      path: stateful_page/template.yaml
   page:
-    path: ../page/template.yaml
+    git:
+      url: https://github.com/mtwichel/mason-flutter-templates
+      path: page/template.yaml

@@ -2,7 +2,20 @@
 
 A collection of templates to make new Flutter components using the [Mason build tool](https://github.com/felangel/mason).
 
-# Templates Avalible
+## Setup in Project
+
+To use these templates in your own Flutter project:
+
+1. Install Mason in your terminal using `pub global activate mason`.
+2. Copy the `mason.yaml` file from `example/mason.yaml` into the root of your own project.
+
+## Usage
+
+With mason installed, run
+`mason build [template]`
+it will promp you for required variables.
+
+## Templates Avalible
 
 | Name          | Description                                                      | Path to Yaml                  |
 | ------------- | ---------------------------------------------------------------- | ----------------------------- |
