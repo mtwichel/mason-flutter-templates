@@ -12,7 +12,7 @@ To use these templates in your own Flutter project:
 ## Usage
 
 With mason installed, run
-`mason build [template]`
+`mason make [template]`
 it will promp you for required variables.
 
 ## Templates Avalible
