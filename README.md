@@ -17,7 +17,7 @@ it will promp you for required variables.
 
 ## Templates Avalible
 
-| Name          | Description                                                      | Path to Yaml                  |
-| ------------- | ---------------------------------------------------------------- | ----------------------------- |
-| page          | A standard page without a bloc. Also generates testing scaffold. | `page/template.yaml`          |
-| stateful_page | A standard page with a bloc. Also generate testing scaffold.     | `stateful_page/template.yaml` |
+| Name          | Description                                                      |
+| ------------- | ---------------------------------------------------------------- |
+| page          | A standard page without a bloc. Also generates testing scaffold. |
+| stateful_page | A standard page with a bloc. Also generate testing scaffold.     |
