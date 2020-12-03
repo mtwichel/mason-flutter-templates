@@ -1,4 +1,4 @@
-name: widget
+name: page
 description: Builds a widget including view code and test scaffold.
 vars:
   - name
