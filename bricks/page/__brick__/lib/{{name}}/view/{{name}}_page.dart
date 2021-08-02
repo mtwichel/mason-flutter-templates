@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class {{# pascalCase}}{{name}}{{/ pascalCase}}Page extends StatelessWidget {
-  const {{# pascalCase}}{{name}}{{/ pascalCase}}Page({Key key}) : super(key: key);
+  const {{# pascalCase}}{{name}}{{/ pascalCase}}Page({Key? key}) : super(key: key);
 
   static Route route() {
     return MaterialPageRoute<void>(builder: (_) => const {{# pascalCase}}{{name}}{{/ pascalCase}}Page());

@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:{{#snakeCase}}{{package_name}}{{/snakeCase}}/{{#snakeCase}}{{name}}{{/snakeCase}}/{{#snakeCase}}{{name}}{{/snakeCase}}.dart';
 
 class {{# pascalCase}}{{name}}{{/ pascalCase}}Page extends StatelessWidget {
-  const {{# pascalCase}}{{name}}{{/ pascalCase}}Page({Key key}) : super(key: key);
+  const {{# pascalCase}}{{name}}{{/ pascalCase}}Page({Key? key}) : super(key: key);
 
   static Route route() {
     return MaterialPageRoute<void>(builder: (_) => const {{# pascalCase}}{{name}}{{/ pascalCase}}Page());
