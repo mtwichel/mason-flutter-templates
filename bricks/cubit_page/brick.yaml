@@ -1,0 +1,10 @@
+name: cubit_page
+description: Builds a widget including view code, and a cubit.
+vars:
+  name:
+    type: string
+    prompt: What should we call this page?
+
+  package_name:
+    type: string
+    prompt: What package is this in?
